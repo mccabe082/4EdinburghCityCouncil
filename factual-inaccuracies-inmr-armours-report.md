@@ -68,6 +68,12 @@ In terms of the stairwell window, we noted that the Inspection Report only makes
 On the lower level of the stairs, there are 3 cracks of uneven size on the wall which is shared with number 16. These were omitted from the Inspection Report. **INSERT PHOTO**
 
 ## External
+
+![A test image](https://drive.google.com/uc?export=view&id=1p49GP9NzLbfPcgMmv85kjTKtqvy-Lw5E)
+
+
+<a href="https://drive.google.com/uc?export=view&id=1p49GP9NzLbfPcgMmv85kjTKtqvy-Lw5E"><img src="https://drive.google.com/uc?export=view&id=1p49GP9NzLbfPcgMmv85kjTKtqvy-Lw5E" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+
 Although the report records there are no external cracks on the front elevation, both the cracks which existed and those that have appeared since have been covered in the appropriate section of this report.
 
 The final section of the Report records the crack below the window of bedroom 2, but fails to record the crack below the stairwell window which we already covered in the stairwell section.
