@@ -17,19 +17,20 @@
 
 ```mermaid
 gantt
-    title Monitoring of Construction Works
+    todayMarker off
+    title Timeline of Construction Works Monitoring
     dateFormat  DD-MM-YYYY
     section Construction
-        Heavy Works :crit,c1, 18-11-2019, 01-09-2021
+        Heavy Works :crit, c1, 18-11-2019, 01-09-2021
         Hard Landscaping :after c1  , 30-10-2021
     section Noise/Vibration Monitoring
-        1 Constituion Place: 29-11-2020, 22-08-2021
-        119 Constitution Street: 03-09-2021, 31-12-2021
-#       1st FOI data: 07-01-2021, 01-04-2021
-    section Events
-        initial viewing (trench): milestone, e1, 24-01-2020
-        move in date: milestone, e2, 10-04-2020
-        viedo of digger: milestone, e3, 07-01-2021
+        1 Constituion Place: s1, 29-11-2020, 22-08-2021
+        119 Constitution Street: s2, 03-09-2021, 31-12-2021
+        %% 1st FOI data: 07-01-2021, se0, 01-04-2021
+    %%section Events
+        %%initial viewing (trench): milestone, e1, 24-01-2020
+        %%move in date: milestone, e2, 10-04-2020
+        %%pavement smashed: milestone, e3, 07-01-2021
 ```
 
 [whale unearthed](https://www.edinburgh.gov.uk/news/article/12893/rare-whale-bones-amongst-historical-discoveries-made-in-tram-project-excavations)
