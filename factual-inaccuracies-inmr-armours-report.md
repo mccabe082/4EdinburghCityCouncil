@@ -16,6 +16,16 @@ Mr Armour’s Inspection report states:-
 - Mr Armour’s report omits two cracks in the bottom corner of the wall which has the water stain.  Although he indicates that the moisture did not register dampness, water staining is clearly visible in the photograph provided.  In addition the Factor has written to all tenants regarding a possible movement of the roof which has already led to repairs and the Factor is currently:-
   >*“In the process of obtaining estimates in relation to a survey of the building fabric, following concerns raised by owners regarding structural integrity.  These concerns relate to heavy duty Tram works over several years and I understand owners have contacted Edinburgh Council directly.*<br/>- Letter dated 31st January 2022 (Appendix????)
 
+<a href="https://drive.google.com/uc?export=view&id=11r-XYf1KMYrrPeCXcn6NVGPVokafbCvj"><img src="https://drive.google.com/uc?export=view&id=11r-XYf1KMYrrPeCXcn6NVGPVokafbCvj" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
+<a href="https://drive.google.com/uc?export=view&id=127xJ85SHKH35KiSKmrkIy5wEmqzAjy3T"><img src="https://drive.google.com/uc?export=view&id=127xJ85SHKH35KiSKmrkIy5wEmqzAjy3T" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
+<a href="https://drive.google.com/uc?export=view&id=11tYh1Tcu2n1rfVd0s3YLaWImEtlQl9CB"><img src="https://drive.google.com/uc?export=view&id=11tYh1Tcu2n1rfVd0s3YLaWImEtlQl9CB" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
+<a href="https://drive.google.com/uc?export=view&id=11oXM5xDHmW3VhL_caz35m-B-lHoWVT60"><img src="https://drive.google.com/uc?export=view&id=11oXM5xDHmW3VhL_caz35m-B-lHoWVT60" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
+<a href="https://drive.google.com/uc?export=view&id=127Czi0R_99uuuwMueROnDGye2GuJ68tB"><img src="https://drive.google.com/uc?export=view&id=127Czi0R_99uuuwMueROnDGye2GuJ68tB" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
+
+---
+
+
+
 ## The EnSuite
 - Since Mr Armour’s visit, cracking has increased at the door surround into the en-suite
 - The crack in the floor which is referenced in his report is now substantially greater and clearly visible as shown in the photograph.   **INSERT 2 Photographs**
@@ -35,6 +45,18 @@ Mr Armour’s Inspection report states:-
 **Although the inspection report states the window of this bedroom opens out to the rear of the building, it actually opens out to the front.**
 - Internal vertical cracks that were pointed out to the Loss Adjuster are omitted from his Report **(INSERT PHOTOGRAPH)**
 - External crack below this window was also omitted from his Inspection Report **(INSERT PHOTOGRAPH)**
+
+<a href="https://drive.google.com/uc?export=view&id=12s8EymZwisKScH4gI9M7FLHnbMb50tet"><img src="https://drive.google.com/uc?export=view&id=12s8EymZwisKScH4gI9M7FLHnbMb50tet" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
+<a href="https://drive.google.com/uc?export=view&id=12riD1LCQsZNT8JnlQKfKSWgOOqQGGfnT"><img src="https://drive.google.com/uc?export=view&id=12riD1LCQsZNT8JnlQKfKSWgOOqQGGfnT" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
+<a href="https://drive.google.com/uc?export=view&id=12o0zF8dfSZCEzVvzcrHWVSU4BdTbm3st"><img src="https://drive.google.com/uc?export=view&id=12o0zF8dfSZCEzVvzcrHWVSU4BdTbm3st" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
+<a href="https://drive.google.com/uc?export=view&id=12mJytDpS6X5D4u7sirgIQYvCll2v_VHD"><img src="https://drive.google.com/uc?export=view&id=12mJytDpS6X5D4u7sirgIQYvCll2v_VHD" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
+<a href="https://drive.google.com/uc?export=view&id=12kHZq__jGv-V0cOoSmLtmMS1bt6zp_eL"><img src="https://drive.google.com/uc?export=view&id=12kHZq__jGv-V0cOoSmLtmMS1bt6zp_eL" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
+<a href="https://drive.google.com/uc?export=view&id=12if_5vvt26NVwkOoHqsTtET9LN672adY"><img src="https://drive.google.com/uc?export=view&id=12if_5vvt26NVwkOoHqsTtET9LN672adY" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
+<a href="https://drive.google.com/uc?export=view&id=12icn30LC9YBdU3ZuUmyE7241T-_QhQr5"><img src="https://drive.google.com/uc?export=view&id=12icn30LC9YBdU3ZuUmyE7241T-_QhQr5" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
+<a href="https://drive.google.com/uc?export=view&id=12ftk5IcM6KORbLpzmqEChHQma41dbFPo"><img src="https://drive.google.com/uc?export=view&id=12ftk5IcM6KORbLpzmqEChHQma41dbFPo" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
+<a href="https://drive.google.com/uc?export=view&id=140nkvLmdTuIiw_GvYxlNggavCeVPYURZ"><img src="https://drive.google.com/uc?export=view&id=140nkvLmdTuIiw_GvYxlNggavCeVPYURZ" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
+<a href="https://drive.google.com/uc?export=view&id=13rHjKBv_De7lVc_3_lkNgQfReRkcJBsm"><img src="https://drive.google.com/uc?export=view&id=13rHjKBv_De7lVc_3_lkNgQfReRkcJBsm" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
+<a href="https://drive.google.com/uc?export=view&id=13leEUdFiWNRD0ZoSLNSUVR3G704FyMhM"><img src="https://drive.google.com/uc?export=view&id=13leEUdFiWNRD0ZoSLNSUVR3G704FyMhM" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
 
 ## Stairs
 **Although the Report identifies zig zag cracks as being present and shows a photograph which was thought to be the stairs, it is actually bedroom 1**
