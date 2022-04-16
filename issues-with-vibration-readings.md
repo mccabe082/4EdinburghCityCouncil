@@ -21,9 +21,10 @@ gantt
     title Timeline of Construction Works Monitoring
     dateFormat  DD-MM-YYYY
     section Construction
-        Heavy Works :crit, c1, 18-11-2019, 01-09-2021
-        Hard Landscaping :after c1  , 30-10-2021
+        Heavy Works : c1, 18-11-2019, 01-09-2021
+        Hard Landscaping : after c1  , 30-10-2021
     section Noise/Vibration Monitoring
+        No monitoring :crit, c1, 18-11-2019, 29-11-2020
         1 Constituion Place: s1, 29-11-2020, 22-08-2021
         119 Constitution Street: s2, 03-09-2021, 31-12-2021
         %% 1st FOI data: 07-01-2021, se0, 01-04-2021
