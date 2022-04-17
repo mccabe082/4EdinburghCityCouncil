@@ -9,6 +9,8 @@ Not Identified | Obvious staircase crack on the external wall masonry radiating 
 Identified | Staircase crack on the external wall eminating from below the metal cladding below the window and following mortar | <a href="https://drive.google.com/uc?export=view&id=127xJ85SHKH35KiSKmrkIy5wEmqzAjy3T"><img src="https://drive.google.com/uc?export=view&id=127xJ85SHKH35KiSKmrkIy5wEmqzAjy3T" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/>
 No Mention | Clear space/separation of sealant be Silicon  | <a href="https://drive.google.com/uc?export=view&id=11oXM5xDHmW3VhL_caz35m-B-lHoWVT60"><img src="https://drive.google.com/uc?export=view&id=11oXM5xDHmW3VhL_caz35m-B-lHoWVT60" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/>
 **Dismissed w/justification of debris as the cause????** | Window catch/release is slightly misaligned and requires force to operate due to slight warping  | -
+Mentioned | Door now rubs against carpet on opening | -
+Identified | Thin cracks in ceiling along plaster board joins | <a href="https://drive.google.com/uc?export=view&id=18kTYyA2Q7pbqT8ynpq4D3oR6JlLfgCj6"><img src="https://drive.google.com/uc?export=view&id=18kTYyA2Q7pbqT8ynpq4D3oR6JlLfgCj6" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/><a href="https://drive.google.com/uc?export=view&id=18kArXSBiedc10OvCaZxTSbbol_BEFCr1"><img src="https://drive.google.com/uc?export=view&id=18kArXSBiedc10OvCaZxTSbbol_BEFCr1" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/>
 
 
 ## Master Bedroom: Interior Walls
@@ -18,11 +20,13 @@ Mentioned | Obvious damp patch from ceiling to floor in north east corner of the
 Omitted | Ragged horizontal crack avove skirting board on eastern wall in north east corner | <a href="https://drive.google.com/uc?export=view&id=141VGhAlP2VnGLf9EQ78mu15ytpMhrd3S"><img src="https://drive.google.com/uc?export=view&id=141VGhAlP2VnGLf9EQ78mu15ytpMhrd3S" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/>
 **Identified????** | On the ceiling we noted 2 hairline cracks which tracked the joints of plasterboard sheets.
 
-
-
-
-
-
+## Master Bedroom: EnSuite
+Status | Description | Image 
+:---   | :---        | ---:
+Mentioned | It is no longer possible to lock the door due to misalignment of the lock | -
+Development | Since Mr Armour’s visit, cracking has increased at the door surround into the en-suite | <a href="https://drive.google.com/uc?export=view&id=18lu8U_SlPDTtVvqMyhJ8BZxqcpYfqqIS"><img src="https://drive.google.com/uc?export=view&id=18lu8U_SlPDTtVvqMyhJ8BZxqcpYfqqIS" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/>
+Mentioned w/Development | The crack in the floor which is referenced in his report is now substantially greater and clearly visible | <a href="https://drive.google.com/uc?export=view&id=149oKX32MPBZZrCO4uUkr1svEVTuYlSgB"><img src="https://drive.google.com/uc?export=view&id=149oKX32MPBZZrCO4uUkr1svEVTuYlSgB" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/>
+Development | hairline crack on ceiling alond joint in plasterboard | <a href="https://drive.google.com/uc?export=view&id=18VLpPNupsEdUXChZzz5LinSpE1bfSfBB"><img src="https://drive.google.com/uc?export=view&id=18VLpPNupsEdUXChZzz5LinSpE1bfSfBB" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/>
 
 
 

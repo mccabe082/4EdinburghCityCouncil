@@ -9,8 +9,7 @@
 
 
 ## The EnSuite
-- Since Mr Armour’s visit, cracking has increased at the door surround into the en-suite
-- The crack in the floor which is referenced in his report is now substantially greater and clearly visible as shown in the photograph.   **INSERT 2 Photographs**
+
 
 ## Top Landing
 **MADDIE & DAVID TO CHECK TOP LANDING**
