@@ -45,11 +45,10 @@ The sensor data is incomplete – we can see large gaps – we are unsure about 
 <a href="https://drive.google.com/uc?export=view&id=1eRexKrd8l8cZmEFtHSftn-3wo1pSfUH1"><img src="https://drive.google.com/uc?export=view&id=1eRexKrd8l8cZmEFtHSftn-3wo1pSfUH1" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
 
 
-
-
 ## Note on vibrational readings
 
->[The reason for the different methodologies is that their works can be different in nature. The majority of the heavy works (breaking out the ground etc) is carried out by Morrison Utility Service and as such **their methodology is to record data on noise and vibration from the different types of machinery used and systems of works, thus making the readings transferable across the route for similar types of works**.  When new machinery or a new method of works commence further readings and data are collected to ensure that they are working within the limits stipulated.  Unannounced and regular audits are undertaken to ensure compliance.](https://www.edinburgh.gov.uk/tramstonewhaven/faqs/construction-2?documentId=22&categoryId=10#noise%20and%20vibration)
+>The reason for the different methodologies is that their works can be different in nature. The majority of the heavy works (breaking out the ground etc) is carried out by Morrison Utility Service and as such [their methodology is to record data on noise and vibration from the different types of machinery used and systems of works, thus making the readings transferable across the route for similar types of works](https://www.edinburgh.gov.uk/tramstonewhaven/faqs/construction-2?documentId=22&categoryId=10#noise%20and%20vibration).  When new machinery or a new method of works commence further readings and data are collected to ensure that they are working within the limits stipulated.  Unannounced and regular audits are undertaken to ensure compliance.
+
 ... they're saying that they have located sensors at nominal stations which represent the type of work being conducted in areas with no monitoring.
 
 
@@ -74,8 +73,13 @@ Other locations were directly monitored but ours was not...
 
 #### 1.2. Our Building was not Indirectly Monitored
 
-It's stated that Morrison's Utilities claim that readings from other locations are "transferable".
-This is subjective and anadequate:
+It's stated that Morrison's Utilities claim (and the council accept) that readings from other locations are "transferable" to other sites.  We dispute this;
+1. No two sites are identical. The precise work and equipment during demolition and excavation varies considerable depending on the precise environment. The "transferibility" of readings is imprecise as the margin for error is totally unquantifiable 
+2. Such a methodology would omits atypical/anomolous vibration events which would cause damage
+
+To support 
+
 - the two data sets we were furnished with which show very different profiles - the work conducted onboth sides is not characteristic of each other - 
 - surely a council acquanted with the process would provide us with the data relating to the type of work conducted on our site
 - it looks lime they issued us with the full data from the two sensors in closest proximity (geographically)
+
