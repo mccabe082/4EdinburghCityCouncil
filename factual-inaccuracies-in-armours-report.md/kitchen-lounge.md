@@ -29,3 +29,7 @@ Mr Armour's Statement | Description | Image
 
 
 
+## Walls
+Mr Armour's Statement | Description | Image 
+:---  | :---        | ---:
+? | New issues - prominant plasterboard joins and cracks |<a href="https://drive.google.com/uc?export=view&id=1B2f6MTLP9MmMSquZrzq1AK7SyC_hOxQK"><img src="https://drive.google.com/uc?export=view&id=1B2f6MTLP9MmMSquZrzq1AK7SyC_hOxQK" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/><a href="https://drive.google.com/uc?export=view&id=1B2sp1cEzWQg-5g9dyiQxgLnWhwjdtZrX"><img src="https://drive.google.com/uc?export=view&id=1B2sp1cEzWQg-5g9dyiQxgLnWhwjdtZrX" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/><a href="https://drive.google.com/uc?export=view&id=1B2pZZYvGHZ--pe6EJP05QoLM0jHgKbvx"><img src="https://drive.google.com/uc?export=view&id=1B2pZZYvGHZ--pe6EJP05QoLM0jHgKbvx" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/>
