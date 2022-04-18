@@ -22,27 +22,10 @@
 - This section of the report is accurate
 
 ## Bedroom 1
-**Although the inspection report states the window of this bedroom opens out to the rear of the building, it actually opens out to the front.**
-- Internal vertical cracks that were pointed out to the Loss Adjuster are omitted from his Report **(INSERT PHOTOGRAPH)**
-- External crack below this window was also omitted from his Inspection Report **(INSERT PHOTOGRAPH)**
 
-<a href="https://drive.google.com/uc?export=view&id=12s8EymZwisKScH4gI9M7FLHnbMb50tet"><img src="https://drive.google.com/uc?export=view&id=12s8EymZwisKScH4gI9M7FLHnbMb50tet" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
-<a href="https://drive.google.com/uc?export=view&id=12riD1LCQsZNT8JnlQKfKSWgOOqQGGfnT"><img src="https://drive.google.com/uc?export=view&id=12riD1LCQsZNT8JnlQKfKSWgOOqQGGfnT" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
-<a href="https://drive.google.com/uc?export=view&id=12o0zF8dfSZCEzVvzcrHWVSU4BdTbm3st"><img src="https://drive.google.com/uc?export=view&id=12o0zF8dfSZCEzVvzcrHWVSU4BdTbm3st" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
-<a href="https://drive.google.com/uc?export=view&id=12mJytDpS6X5D4u7sirgIQYvCll2v_VHD"><img src="https://drive.google.com/uc?export=view&id=12mJytDpS6X5D4u7sirgIQYvCll2v_VHD" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
-<a href="https://drive.google.com/uc?export=view&id=12kHZq__jGv-V0cOoSmLtmMS1bt6zp_eL"><img src="https://drive.google.com/uc?export=view&id=12kHZq__jGv-V0cOoSmLtmMS1bt6zp_eL" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
-<a href="https://drive.google.com/uc?export=view&id=12if_5vvt26NVwkOoHqsTtET9LN672adY"><img src="https://drive.google.com/uc?export=view&id=12if_5vvt26NVwkOoHqsTtET9LN672adY" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
-<a href="https://drive.google.com/uc?export=view&id=12icn30LC9YBdU3ZuUmyE7241T-_QhQr5"><img src="https://drive.google.com/uc?export=view&id=12icn30LC9YBdU3ZuUmyE7241T-_QhQr5" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
-<a href="https://drive.google.com/uc?export=view&id=12ftk5IcM6KORbLpzmqEChHQma41dbFPo"><img src="https://drive.google.com/uc?export=view&id=12ftk5IcM6KORbLpzmqEChHQma41dbFPo" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
-<a href="https://drive.google.com/uc?export=view&id=140nkvLmdTuIiw_GvYxlNggavCeVPYURZ"><img src="https://drive.google.com/uc?export=view&id=140nkvLmdTuIiw_GvYxlNggavCeVPYURZ" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
-<a href="https://drive.google.com/uc?export=view&id=13rHjKBv_De7lVc_3_lkNgQfReRkcJBsm"><img src="https://drive.google.com/uc?export=view&id=13rHjKBv_De7lVc_3_lkNgQfReRkcJBsm" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
-<a href="https://drive.google.com/uc?export=view&id=13leEUdFiWNRD0ZoSLNSUVR3G704FyMhM"><img src="https://drive.google.com/uc?export=view&id=13leEUdFiWNRD0ZoSLNSUVR3G704FyMhM" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
 
 ## Stairs
-**Although the Report identifies zig zag cracks as being present and shows a photograph which was thought to be the stairs, it is actually bedroom 1**
 
-- The vertical hairline cracks which are described as not extending to ceiling or the floor actually do **(insert photograph)**
-- Mr Armour’s assertion the cracks which follow the wall stringer on the stairs were actually paint lines rather than cracks were dismissed as spurious by our surveyor on his 2nd visit.  He also dismissed Mr Armour’s explanation that:- <br/><br/>*“over time, the weight of persons will allow the timber to flex and open up the paint lines. In our opinion this damage is due to normal usage “*
 
 
 ## Kitchen/ Lounge

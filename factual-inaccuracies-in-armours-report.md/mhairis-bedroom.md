@@ -16,3 +16,15 @@ Not Mentioned | hairline cracks on skirting and around door frame | <a href="htt
 
 
 [warping of doorframe timer?](https://drive.google.com/file/d/16WNyNZCSXkDbhXJX8G8CvIHn8vaTRjib/view?usp=sharing)
+
+
+The window in this room opens out to the rear of the building and there was evidence of
+movement to the internal timber window cill. In addition to an internal crack to the plasterboard
+below the window we identified a corresponding external zig zag crack pattern through the
+mortar.
+
+
+---
+**Although the inspection report states the window of this bedroom opens out to the rear of the building, it actually opens out to the front.**
+- Internal vertical cracks that were pointed out to the Loss Adjuster are omitted from his Report **(INSERT PHOTOGRAPH)**
+- External crack below this window was also omitted from his Inspection Report **(INSERT PHOTOGRAPH)**
