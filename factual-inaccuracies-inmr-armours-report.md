@@ -14,9 +14,7 @@
 ## Top Landing
 
 ## Bedroom 2
-- Although Mr Armour’s report refers to an internal crack under the window, he was also shown an external crack, but did not include it in his report .
 
-**INSERT photograph**
 
 ## Bathroom
 - This section of the report is accurate
