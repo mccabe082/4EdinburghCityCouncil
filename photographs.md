@@ -1,4 +1,4 @@
-# Photographs
+# Photos
 
 <figure>
     <a href="https://drive.google.com/uc?export=view&id=149oKX32MPBZZrCO4uUkr1svEVTuYlSgB"><img src="https://drive.google.com/uc?export=view&id=149oKX32MPBZZrCO4uUkr1svEVTuYlSgB" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture"/>
@@ -72,14 +72,6 @@
 ---
 
 <figure>
-    <a href="https://drive.google.com/uc?export=view&id=10bL5cmrFNk6F_TaIJf-ixCv6T4JE5WH_">
-    <img src="https://drive.google.com/uc?export=view&id=10bL5cmrFNk6F_TaIJf-ixCv6T4JE5WH_" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture"/>
-    <figcaption>[Photo-9]</figcaption>
-</figure>
-
----
-
-<figure>
     <a href="https://drive.google.com/uc?export=view&id=1CHyWliiVN-cGh0BLaVdKglNKAILJaHhw">
     <img src="https://drive.google.com/uc?export=view&id=1CHyWliiVN-cGh0BLaVdKglNKAILJaHhw" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture"/>
     <figcaption>[Photo-10]</figcaption>
@@ -101,15 +93,6 @@
 </figure>
 
 ---
-
-<figure>
-    <a href="https://drive.google.com/uc?export=view&id=1BTIG4XsDDFTm878syjNzjuW-gGjeLMNo">
-    <img src="https://drive.google.com/uc?export=view&id=1BTIG4XsDDFTm878syjNzjuW-gGjeLMNo" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture"/>
-    <figcaption>[Photo-13]</figcaption>
-</figure>
-
----
-
 
 <figure>
     <a href="https://drive.google.com/uc?export=view&id=1BTIG4XsDDFTm878syjNzjuW-gGjeLMNo">
