@@ -1,25 +1,20 @@
 # Master Bedroom
 
-## Master Bedroom: window and surrounds
 
-Mr Armour's Statement | Description | Image 
-:---  | :---        | ---:
-Not Identified | Thin cracks in paint around the interior window sill | <a href="https://drive.google.com/uc?export=view&id=11tYh1Tcu2n1rfVd0s3YLaWImEtlQl9CB"><img src="https://drive.google.com/uc?export=view&id=11tYh1Tcu2n1rfVd0s3YLaWImEtlQl9CB" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/>
-Not Identified | Obvious staircase crack on the external wall masonry radiating from the top of the window following mortar | <a href="https://drive.google.com/uc?export=view&id=11r-XYf1KMYrrPeCXcn6NVGPVokafbCvj"><img src="https://drive.google.com/uc?export=view&id=11r-XYf1KMYrrPeCXcn6NVGPVokafbCvj" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/>
-Identified | Staircase crack on the external wall eminating from below the metal cladding below the window and following mortar | <a href="https://drive.google.com/uc?export=view&id=127xJ85SHKH35KiSKmrkIy5wEmqzAjy3T"><img src="https://drive.google.com/uc?export=view&id=127xJ85SHKH35KiSKmrkIy5wEmqzAjy3T" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/>
-No Mention | Clear space/separation of sealant be Silicon  | <a href="https://drive.google.com/uc?export=view&id=11oXM5xDHmW3VhL_caz35m-B-lHoWVT60"><img src="https://drive.google.com/uc?export=view&id=11oXM5xDHmW3VhL_caz35m-B-lHoWVT60" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/>
-**Dismissed w/justification of debris as the cause????** | Window catch/release is slightly misaligned and requires force to operate due to slight warping  | -
-Mentioned | Door now rubs against carpet on opening | -
-Identified | Thin cracks in ceiling along plaster board joins | <a href="https://drive.google.com/uc?export=view&id=18kTYyA2Q7pbqT8ynpq4D3oR6JlLfgCj6"><img src="https://drive.google.com/uc?export=view&id=18kTYyA2Q7pbqT8ynpq4D3oR6JlLfgCj6" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/><a href="https://drive.google.com/uc?export=view&id=18kArXSBiedc10OvCaZxTSbbol_BEFCr1"><img src="https://drive.google.com/uc?export=view&id=18kArXSBiedc10OvCaZxTSbbol_BEFCr1" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/>
-Identified | Thin cracks in ceiling along plaster board joins | <a href="https://drive.google.com/uc?export=view&id=18kTYyA2Q7pbqT8ynpq4D3oR6JlLfgCj6"><img src="https://drive.google.com/uc?export=view&id=18kTYyA2Q7pbqT8ynpq4D3oR6JlLfgCj6" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/><a href="https://drive.google.com/uc?export=view&id=18kArXSBiedc10OvCaZxTSbbol_BEFCr1"><img src="https://drive.google.com/uc?export=view&id=18kArXSBiedc10OvCaZxTSbbol_BEFCr1" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/>
-## Master Bedroom: Interior Walls
-Status | Description | Image 
-:---   | :---        | ---:
-Mentioned | Obvious damp patch from ceiling to floor in north east corner of the room | <a href="https://drive.google.com/uc?export=view&id=127Czi0R_99uuuwMueROnDGye2GuJ68tB"><img src="https://drive.google.com/uc?export=view&id=127Czi0R_99uuuwMueROnDGye2GuJ68tB" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/>
-Omitted | Ragged horizontal crack avove skirting board on eastern wall in north east corner | <a href="https://drive.google.com/uc?export=view&id=141VGhAlP2VnGLf9EQ78mu15ytpMhrd3S"><img src="https://drive.google.com/uc?export=view&id=141VGhAlP2VnGLf9EQ78mu15ytpMhrd3S" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/>
-**Identified????** | On the ceiling we noted 2 hairline cracks which tracked the joints of plasterboard sheets.
+Mr Armour's Statement | Location | Description | Notes | Image 
+:---  | :--- | :---| :---        | ---:
+Not Identified |Master Bedroom: interior window surrounds| Thin cracks in paint around the interior window sill || <a href="https://drive.google.com/uc?export=view&id=11tYh1Tcu2n1rfVd0s3YLaWImEtlQl9CB"><img src="https://drive.google.com/uc?export=view&id=11tYh1Tcu2n1rfVd0s3YLaWImEtlQl9CB" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/>
+Not Identified |Master Bedroom: exterior window surrounds | Obvious staircase crack on the external wall masonry radiating from the top of the window following mortar || <a href="https://drive.google.com/uc?export=view&id=11r-XYf1KMYrrPeCXcn6NVGPVokafbCvj"><img src="https://drive.google.com/uc?export=view&id=11r-XYf1KMYrrPeCXcn6NVGPVokafbCvj" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/>
+Identified **POTENTIAL DUPLICATE** |Master Bedroom: exterior window surrounds| Staircase crack on the external wall eminating from below the metal cladding below the window and following mortar | |<a href="https://drive.google.com/uc?export=view&id=127xJ85SHKH35KiSKmrkIy5wEmqzAjy3T"><img src="https://drive.google.com/uc?export=view&id=127xJ85SHKH35KiSKmrkIy5wEmqzAjy3T" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/>
+No Mention |Master Bedroom: exterior window surrounds| Clear space/separation of sealant be Silicon  || <a href="https://drive.google.com/uc?export=view&id=11oXM5xDHmW3VhL_caz35m-B-lHoWVT60"><img src="https://drive.google.com/uc?export=view&id=11oXM5xDHmW3VhL_caz35m-B-lHoWVT60" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/>
+Mentioned | Master Bedroom Window |Window catch/release is slightly misaligned and requires force to operate due to slight warping  | Dismissed w/justification of debris as the cause |
+Mentioned | Master Bedroom Door | Door now rubs against carpet on opening when it didn't previously | Note: it was the appearence of this issue along w/the identical issues w/the ensuite; lounge and cuboard doors that first alerted us to potential structural movement
+Identified | Master Bedroom Ceiling | Two thin cracks in ceiling along plaster board joins || <a href="https://drive.google.com/uc?export=view&id=18kTYyA2Q7pbqT8ynpq4D3oR6JlLfgCj6"><img src="https://drive.google.com/uc?export=view&id=18kTYyA2Q7pbqT8ynpq4D3oR6JlLfgCj6" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/><a href="https://drive.google.com/uc?export=view&id=18kArXSBiedc10OvCaZxTSbbol_BEFCr1"><img src="https://drive.google.com/uc?export=view&id=18kArXSBiedc10OvCaZxTSbbol_BEFCr1" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/>
+Mentioned |  Master Bedroom Ceiling | Obvious damp patch from ceiling to floor in north east corner of the room || <a href="https://drive.google.com/uc?export=view&id=127Czi0R_99uuuwMueROnDGye2GuJ68tB"><img src="https://drive.google.com/uc?export=view&id=127Czi0R_99uuuwMueROnDGye2GuJ68tB" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/>
+Omitted | Master Bedroom Wall | Ragged horizontal crack avove skirting board on eastern wall in north east corner|Mr Armour was explicitly shown this crack yet it was completely omitted from his report| <a href="https://drive.google.com/uc?export=view&id=141VGhAlP2VnGLf9EQ78mu15ytpMhrd3S"><img src="https://drive.google.com/uc?export=view&id=141VGhAlP2VnGLf9EQ78mu15ytpMhrd3S" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/>
 
-## Mr Donaldson's
+
+---
 
 It is worth starting this section by contrasting Mr Donald’s Inspection report of 3<sup>rd</sup> June 2021 with Mr Armour’s account which took place later that same year.  Mr Donald’s Report states:-
 
