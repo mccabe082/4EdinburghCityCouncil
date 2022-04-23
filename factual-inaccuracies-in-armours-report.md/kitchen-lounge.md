@@ -1,6 +1,5 @@
 # Downstairs Open Plan Area
 
-## Livingroom Door & Frame
 Status | Location | Description | Additional Notes | Images
 :---  | :--- | :---| :---        | ---:
 ? | Livingroom: door frame | gaps in timber | Mr Armour dismissed structural movement citing an absence of gaps in the timber - now there are gaps in the timber |<a href="https://drive.google.com/uc?export=view&id=19QSNaOGwIycYV2C_lp-SyogcAIeKABvY"><img src="https://drive.google.com/uc?export=view&id=19QSNaOGwIycYV2C_lp-SyogcAIeKABvY" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/><a href="https://drive.google.com/uc?export=view&id=19NG0FVeUU0uh481sXZu2IwXXZA93FRP3"><img src="https://drive.google.com/uc?export=view&id=19NG0FVeUU0uh481sXZu2IwXXZA93FRP3" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/>
