@@ -1,6 +1,6 @@
 # Bedroom 2 (West)
 
-Mr Armour's Statement | Location | Description | Notes | Image 
+Status | Location | Description | Additional Notes | Images
 :---  | :--- | :---| :---        | ---:
 Not Mentioned | Bedroom 2: External Wall on no.12 | **Not Mentioned:** a foot or so from the rear window there is a large vertical crack through the masonary on the adjacent wall || <a href="https://drive.google.com/uc?export=view&id=14RZ81ybhbrfqn307ZOwhhaguNpGEkdIq"><img src="https://drive.google.com/uc?export=view&id=14RZ81ybhbrfqn307ZOwhhaguNpGEkdIq" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/>
 Omitted | Bedroom 2: Window (Exterior)|**Omitted:** at the bottom edge of the rear window there is a large staircase crack through the masonary and a slightly protruding brick| We assert that Mrs McCabe pointed out this defect to Mr Armour during his visit | <a href="https://drive.google.com/uc?export=view&id=14OFBN-p5jClUP9QXn4vp5hm0thb_jWSo"><img src="https://drive.google.com/uc?export=view&id=14OFBN-p5jClUP9QXn4vp5hm0thb_jWSo" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/>

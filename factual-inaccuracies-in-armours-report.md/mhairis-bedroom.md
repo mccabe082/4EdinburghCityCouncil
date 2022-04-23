@@ -1,6 +1,6 @@
 # Bedroom 1 (Small North East)
 
-Mr Armour's Statement | Location | Description | Notes | Image 
+Status | Location | Description | Additional Notes | Images
 :---  | :--- | :---| :---        | ---:
 Not Mentioned | Bedroom 1 Window: External Wall | Crack in the mortar of the external wall eminating from below the metal cladding below the window | We are concerned there is greater damage hidden under the cladding | <a href="https://drive.google.com/uc?export=view&id=12s8EymZwisKScH4gI9M7FLHnbMb50tet"><img src="https://drive.google.com/uc?export=view&id=12s8EymZwisKScH4gI9M7FLHnbMb50tet" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/>
 Omitted | Bedroom 1 Window: External Wall | Obvious crack on the external wall masonry through brick and mortar | External crack below this window was also omitted from his Inspection Report | <a href="https://drive.google.com/uc?export=view&id=12riD1LCQsZNT8JnlQKfKSWgOOqQGGfnT"><img src="https://drive.google.com/uc?export=view&id=12riD1LCQsZNT8JnlQKfKSWgOOqQGGfnT" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/>
@@ -16,5 +16,5 @@ Misidentification | \*Mr Armour's report | Mr Armour erroneously reports that:- 
 
 
 
-[warping of doorframe timer?](https://drive.google.com/file/d/16WNyNZCSXkDbhXJX8G8CvIHn8vaTRjib/view?usp=sharing)
+[warping of doorframe timber?](https://drive.google.com/file/d/16WNyNZCSXkDbhXJX8G8CvIHn8vaTRjib/view?usp=sharing)
 
