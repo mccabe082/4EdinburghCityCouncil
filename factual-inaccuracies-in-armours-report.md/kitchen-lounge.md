@@ -1,4 +1,4 @@
-# Downstairs Open Plan Area
+# Kitchen/Lounge (Downstairs Open Plan Area)
 
 Status | Location | Description | Additional Notes | Images
 :---  | :--- | :---| :---        | ---:
