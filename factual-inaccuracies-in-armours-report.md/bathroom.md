@@ -1,5 +1,19 @@
-# Main Bathroom
-Status | Location | Description | Additional Notes | Images
-:---  | :--- | :---| :---        | ---:
-Identified | Bathroom: Floor | cracking of the grout line to the tiled floor | Mr Armour's report states he sees no evidence on cause | <a href="https://drive.google.com/uc?export=view&id=1B1fXYvIRltODsbtdSYMhcc-EuklMrsNP"><img src="https://drive.google.com/uc?export=view&id=1B1fXYvIRltODsbtdSYMhcc-EuklMrsNP" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/><a href="https://drive.google.com/uc?export=view&id=1Axg-eZPblYZUC7st-j7jok5QLFh0QoxS"><img src="https://drive.google.com/uc?export=view&id=1Axg-eZPblYZUC7st-j7jok5QLFh0QoxS" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/>
-Identified | Bathroom: Ceiling | Hairline crack to joint on plasterboard ceiling.||<figure><a href="https://drive.google.com/uc?export=view&id=1AxFbbLkLz1soCbZvp3D47QaT2h7z1FIg"><img src="https://drive.google.com/uc?export=view&id=1AxFbbLkLz1soCbZvp3D47QaT2h7z1FIg" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/><figcaption>Bathroom.Floor.Fig1</figcaption></figure>
+# 1. Main Bathroom
+
+## 1.1. Bathroom: Floor
+cracking of the grout line to the tiled floor.
+
+<a href="https://drive.google.com/uc?export=view&id=1B1fXYvIRltODsbtdSYMhcc-EuklMrsNP">
+    <img src="https://drive.google.com/uc?export=view&id=1B1fXYvIRltODsbtdSYMhcc-EuklMrsNP" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
+</a>
+<a href="https://drive.google.com/uc?export=view&id=1Axg-eZPblYZUC7st-j7jok5QLFh0QoxS">
+    <img src="https://drive.google.com/uc?export=view&id=1Axg-eZPblYZUC7st-j7jok5QLFh0QoxS" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
+</a>
+
+
+## 1.2. Bathroom: Ceiling
+Hairline crack to joint on plasterboard ceiling.
+
+<a href="https://drive.google.com/uc?export=view&id=1AxFbbLkLz1soCbZvp3D47QaT2h7z1FIg">
+    <img src="https://drive.google.com/uc?export=view&id=1AxFbbLkLz1soCbZvp3D47QaT2h7z1FIg" style="width: 650px; max-width: 81%; height: auto" title="Click to enlarge picture"/>
+</a>
