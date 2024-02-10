@@ -30,6 +30,12 @@ download_with_retry() {
     local downloaded_file="$2"
     local attempts=0
 
+    # Check if the file already exists, if yes, return without re-downloading
+    if [ -e "$downloaded_file" ]; then
+        echo "File already exists: $downloaded_file"
+        return 0
+    fi
+
     while [ $attempts -lt $max_attempts ]; do
         # Download the image using wget
         wget -P "$photo_downloads_dir" -O "$downloaded_file" "$src_value"
@@ -42,6 +48,9 @@ download_with_retry() {
             ((attempts++))
         fi
     done
+
+    # Return 0 on success, 1 on failure
+    return $?
 }
 
 # Iterate over all files in the generate-docs directory
