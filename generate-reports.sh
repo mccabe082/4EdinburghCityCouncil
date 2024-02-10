@@ -14,13 +14,6 @@ max_attempts=3
 mkdir -p "$generate_docs_dir"
 mkdir -p "$photo_downloads_dir"
 
-# Backup original files
-for file in "$generate_docs_dir"/*; do
-    if [ -f "$file" ]; then
-        cp "$file" "${file}.bak"
-    fi
-done
-
 # Copy the contents of factual-inaccuracies-in-armours-report.md to generate-docs
 cp -r factual-inaccuracies-in-armours-report.md/* "$generate_docs_dir"
 
