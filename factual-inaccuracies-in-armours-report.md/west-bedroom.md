@@ -1,24 +1,24 @@
-# Bedroom 2 (West)
+# 10. Bedroom 2 (West)
 
-## Bedroom 2: External Wall on no.12
+## 10.1. Bedroom 2: External Wall on no.12
 
 A foot or so from the rear window there is a large vertical crack through the masonary on the adjacent wall
 
 <a href="https://drive.google.com/uc?export=view&id=14RZ81ybhbrfqn307ZOwhhaguNpGEkdIq"><img src="https://drive.google.com/uc?export=view&id=14RZ81ybhbrfqn307ZOwhhaguNpGEkdIq" style="width: 650px; max-width: 80%; height: auto" title="Click to enlarge picture"/></a>
 
-## Bedroom 2: Window (Exterior)
+## 10.2. Bedroom 2: Window (Exterior)
 
 at the bottom edge of the rear window there is a large staircase crack through the masonary and a slightly protruding brick
 
 <a href="https://drive.google.com/uc?export=view&id=14OFBN-p5jClUP9QXn4vp5hm0thb_jWSo"><img src="https://drive.google.com/uc?export=view&id=14OFBN-p5jClUP9QXn4vp5hm0thb_jWSo" style="width: 650px; max-width: 80%; height: auto" title="Click to enlarge picture"/></a>
 
-## Bedroom 2: Window Sill
+## 10.3. Bedroom 2: Window Sill
 
 the window sill has begun to separate from the surrounding plaster
 
 <a href="https://drive.google.com/uc?export=view&id=14PPLrtP8F6WNUDWNRHOzr8VvOuXJVVI2"><img src="https://drive.google.com/uc?export=view&id=14PPLrtP8F6WNUDWNRHOzr8VvOuXJVVI2" style="width: 650px; max-width: 80%; height: auto" title="Click to enlarge picture"/></a>
 
-## Bedroom 2: Internal Cracks 1
+## 10.4. Bedroom 2: Internal Cracks 1
 
 there is a large crack through the plaster board below the window
 
@@ -30,7 +30,7 @@ there is now a new tear through the plaster board at the top of the alcove
 
 <a href="https://drive.google.com/uc?export=view&id=1MHgVSwiAmWS7CliJ2E02MC_L_p8QlQaG"><img src="https://drive.google.com/uc?export=view&id=1MHgVSwiAmWS7CliJ2E02MC_L_p8QlQaG" style="width: 650px; max-width: 80%; height: auto" title="Click to enlarge picture"/></a>
 
-## Bedroom 2: Walls
+## 10.5. Bedroom 2: Walls
 
 there are two long vertical hairline cracks in the wall from floor to ceiling along the plaster board joins
 
