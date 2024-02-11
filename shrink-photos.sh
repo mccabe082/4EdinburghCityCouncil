@@ -4,7 +4,7 @@
 directory="./photo_downloads"
 
 # Set the reduction factor
-reduction_factor=4
+reduction_factor=20
 
 # Navigate to the directory
 cd "$directory" || exit
