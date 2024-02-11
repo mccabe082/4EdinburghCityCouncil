@@ -3,7 +3,7 @@
 ## 9.1. Upstairs Landing: Master Bedroom door
 
 There was a small crack in the plasterboard above the door frame on the right. Now there are now slight gaps in the timber
->Mr Armour dismissed structural movement citing an absence of gaps in the timber - now there are gaps in the timber
+<!--->>Mr Armour dismissed structural movement citing an absence of gaps in the timber - now there are gaps in the timber<!--->
 
 <a href="https://drive.google.com/uc?export=view&id=18q5YlcIIeJyvAfydAEd4UMA1lkWLhTjG">
     <img src="https://drive.google.com/uc?export=view&id=18q5YlcIIeJyvAfydAEd4UMA1lkWLhTjG" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/></a>
@@ -45,7 +45,8 @@ crack above door frame and slight separation of door frame timber
 ## 9.6. Downstairs Landing: Livingroom Door
 
 Slight separation of some of the door frame timers and slight cracking/separation of the timer edges from the plasterboard wall
->this would have been clearly visible in the [property brochure](https://drive.google.com/file/d/1-dMsdkqNJyB_b9rbycq3mClOOrub1Pds/view?usp=sharing) but it is not
+
+this would have been clearly visible in the [property brochure](https://drive.google.com/file/d/1-dMsdkqNJyB_b9rbycq3mClOOrub1Pds/view?usp=sharing) but it is not
 
 <a href="https://drive.google.com/uc?export=view&id=1BTIG4XsDDFTm878syjNzjuW-gGjeLMNo">
     <img src="https://drive.google.com/uc?export=view&id=1BTIG4XsDDFTm878syjNzjuW-gGjeLMNo" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/></a>
@@ -62,7 +63,7 @@ ridge along gap between plaster board sheets along the ceiling
 ## 9.8. Stairs: Stringers
 
 Slight separation of the stair stringer from the central banister wall and a long crack in the plasterboard above the stringer and running parallel to the stringer. <br><br>additionally there is a long paint crack along top of the oppoisite stringer
-> Mr Armour’s assertion the cracks which follow the wall stringer on the stairs were actually paint lines rather than cracks were dismissed as spurious by our surveyor on his 2nd visit.  He also dismissed Mr Armour’s explanation that:- <br/><br/>*“over time, the weight of persons will allow the timber to flex and open up the paint lines. In our opinion this damage is due to normal usage “*
+<!--->> Mr Armour’s assertion the cracks which follow the wall stringer on the stairs were actually paint lines rather than cracks were dismissed as spurious by our surveyor on his 2nd visit.  He also dismissed Mr Armour’s explanation that:- <br/><br/>*“over time, the weight of persons will allow the timber to flex and open up the paint lines. In our opinion this damage is due to normal usage “*<!--->
 
 <a href="https://drive.google.com/uc?export=view&id=199xkMsk8dmX6dT0KWGzGg8THDj8tzTJR">
     <img src="https://drive.google.com/uc?export=view&id=199xkMsk8dmX6dT0KWGzGg8THDj8tzTJR" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/></a>
