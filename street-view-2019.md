@@ -1,7 +1,8 @@
 # Appendix 1: Pre-Construction (June 2019) Photos
 
 <figure>
-    <a href="https://drive.google.com/uc?export=view&id=1rKrHVerioYUTzZ8H099G4pF1-ZIFVJzK"><img src="https://drive.google.com/uc?export=view&id=1rKrHVerioYUTzZ8H099G4pF1-ZIFVJzK" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture"/>
+    <a href="https://drive.google.com/uc?export=view&id=1rKrHVerioYUTzZ8H099G4pF1-ZIFVJzK">
+    <img src="https://drive.google.com/uc?export=view&id=1rKrHVerioYUTzZ8H099G4pF1-ZIFVJzK" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture"/>
     <figcaption>[Image-1]</figcaption>
 </figure>
 

@@ -2,7 +2,8 @@
 
 ## Sensor Locations
 
-<a href="https://drive.google.com/uc?export=view&id=17lJ_9KgnOZV-kzYQzUggoVFlNn5mTTh0"><img src="https://drive.google.com/uc?export=view&id=17lJ_9KgnOZV-kzYQzUggoVFlNn5mTTh0" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
+<a href="https://drive.google.com/uc?export=view&id=17lJ_9KgnOZV-kzYQzUggoVFlNn5mTTh0">
+    <img src="https://drive.google.com/uc?export=view&id=17lJ_9KgnOZV-kzYQzUggoVFlNn5mTTh0" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
 
 
 
@@ -45,9 +46,11 @@ gantt
 
 The sensor data is incomplete – we can see large gaps – we are unsure about smaller gaps
 
-<a href="https://drive.google.com/uc?export=view id=1qVL8qp4ZIky-cqFhk28WOQOrGOPCo-w6"><img src="https://drive.google.com/uc?export=view&id=1qVL8qp4ZIky-cqFhk28WOQOrGOPCo-w6" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
+<a href="https://drive.google.com/uc?export=view id=1qVL8qp4ZIky-cqFhk28WOQOrGOPCo-w6">
+    <img src="https://drive.google.com/uc?export=view&id=1qVL8qp4ZIky-cqFhk28WOQOrGOPCo-w6" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
 
-<a href="https://drive.google.com/uc?export=view&id=1eRexKrd8l8cZmEFtHSftn-3wo1pSfUH1"><img src="https://drive.google.com/uc?export=view&id=1eRexKrd8l8cZmEFtHSftn-3wo1pSfUH1" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
+<a href="https://drive.google.com/uc?export=view&id=1eRexKrd8l8cZmEFtHSftn-3wo1pSfUH1">
+    <img src="https://drive.google.com/uc?export=view&id=1eRexKrd8l8cZmEFtHSftn-3wo1pSfUH1" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/>
 
 
 ## Note on vibrational readings

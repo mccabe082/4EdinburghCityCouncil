@@ -1,7 +1,8 @@
 # Appendix 14: Photos
 
 <figure>
-    <a href="https://drive.google.com/uc?export=view&id=149oKX32MPBZZrCO4uUkr1svEVTuYlSgB"><img src="https://drive.google.com/uc?export=view&id=149oKX32MPBZZrCO4uUkr1svEVTuYlSgB" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture"/>
+    <a href="https://drive.google.com/uc?export=view&id=149oKX32MPBZZrCO4uUkr1svEVTuYlSgB">
+    <img src="https://drive.google.com/uc?export=view&id=149oKX32MPBZZrCO4uUkr1svEVTuYlSgB" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture"/>
     <figcaption>[Photo-1]</figcaption>
 </figure>
 
@@ -80,7 +81,8 @@
 ---
 
 <figure>
-    <a href="https://drive.google.com/uc?export=view&id=19zOWN3LFWfCpuNM8HlmrzIfvCq4Rz2fA"><img src="https://drive.google.com/uc?export=view&id=19zOWN3LFWfCpuNM8HlmrzIfvCq4Rz2fA" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture"/>
+    <a href="https://drive.google.com/uc?export=view&id=19zOWN3LFWfCpuNM8HlmrzIfvCq4Rz2fA">
+    <img src="https://drive.google.com/uc?export=view&id=19zOWN3LFWfCpuNM8HlmrzIfvCq4Rz2fA" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture"/>
     <figcaption>[Photo-11]</figcaption>
 </figure>
 

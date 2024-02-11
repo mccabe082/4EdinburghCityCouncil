@@ -3,21 +3,25 @@
  
 Thin cracks in paint around the interior window sill
 
-<a href="https://drive.google.com/uc?export=view&id=11tYh1Tcu2n1rfVd0s3YLaWImEtlQl9CB"><img src="https://drive.google.com/uc?export=view&id=11tYh1Tcu2n1rfVd0s3YLaWImEtlQl9CB" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/></a>
+<a href="https://drive.google.com/uc?export=view&id=11tYh1Tcu2n1rfVd0s3YLaWImEtlQl9CB">
+    <img src="https://drive.google.com/uc?export=view&id=11tYh1Tcu2n1rfVd0s3YLaWImEtlQl9CB" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/></a>
 
 ## 7.2. Master Bedroom: exterior window surrounds
 
 Obvious staircase crack on the external wall masonry radiating from the top of the window following mortar
 
-<a href="https://drive.google.com/uc?export=view&id=11r-XYf1KMYrrPeCXcn6NVGPVokafbCvj"><img src="https://drive.google.com/uc?export=view&id=11r-XYf1KMYrrPeCXcn6NVGPVokafbCvj" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/></a>
+<a href="https://drive.google.com/uc?export=view&id=11r-XYf1KMYrrPeCXcn6NVGPVokafbCvj">
+    <img src="https://drive.google.com/uc?export=view&id=11r-XYf1KMYrrPeCXcn6NVGPVokafbCvj" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/></a>
 
 **POTENTIAL DUPLICATE** Staircase crack on the external wall eminating from below the metal cladding below the window and following mortar
 
-<a href="https://drive.google.com/uc?export=view&id=127xJ85SHKH35KiSKmrkIy5wEmqzAjy3T"><img src="https://drive.google.com/uc?export=view&id=127xJ85SHKH35KiSKmrkIy5wEmqzAjy3T" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/></a>
+<a href="https://drive.google.com/uc?export=view&id=127xJ85SHKH35KiSKmrkIy5wEmqzAjy3T">
+    <img src="https://drive.google.com/uc?export=view&id=127xJ85SHKH35KiSKmrkIy5wEmqzAjy3T" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/></a>
 
 Clear space/separation of sealant be Silicon
 
-<a href="https://drive.google.com/uc?export=view&id=11oXM5xDHmW3VhL_caz35m-B-lHoWVT60"><img src="https://drive.google.com/uc?export=view&id=11oXM5xDHmW3VhL_caz35m-B-lHoWVT60" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/></a>
+<a href="https://drive.google.com/uc?export=view&id=11oXM5xDHmW3VhL_caz35m-B-lHoWVT60">
+    <img src="https://drive.google.com/uc?export=view&id=11oXM5xDHmW3VhL_caz35m-B-lHoWVT60" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/></a>
 
 ## 7.3. Master Bedroom Window
 
@@ -31,19 +35,23 @@ Door now rubs against carpet on opening when it didn't previously | Note: it was
 
 Two thin cracks in ceiling along plaster board joins
 
-<a href="https://drive.google.com/uc?export=view&id=18kTYyA2Q7pbqT8ynpq4D3oR6JlLfgCj6"><img src="https://drive.google.com/uc?export=view&id=18kTYyA2Q7pbqT8ynpq4D3oR6JlLfgCj6" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/></a>
-<a href="https://drive.google.com/uc?export=view&id=18kArXSBiedc10OvCaZxTSbbol_BEFCr1"><img src="https://drive.google.com/uc?export=view&id=18kArXSBiedc10OvCaZxTSbbol_BEFCr1" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/></a>
+<a href="https://drive.google.com/uc?export=view&id=18kTYyA2Q7pbqT8ynpq4D3oR6JlLfgCj6">
+    <img src="https://drive.google.com/uc?export=view&id=18kTYyA2Q7pbqT8ynpq4D3oR6JlLfgCj6" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/></a>
+<a href="https://drive.google.com/uc?export=view&id=18kArXSBiedc10OvCaZxTSbbol_BEFCr1">
+    <img src="https://drive.google.com/uc?export=view&id=18kArXSBiedc10OvCaZxTSbbol_BEFCr1" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/></a>
 
 Obvious damp patch from ceiling to floor in north east corner of the room
 
-<a href="https://drive.google.com/uc?export=view&id=127Czi0R_99uuuwMueROnDGye2GuJ68tB"><img src="https://drive.google.com/uc?export=view&id=127Czi0R_99uuuwMueROnDGye2GuJ68tB" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/></a>
+<a href="https://drive.google.com/uc?export=view&id=127Czi0R_99uuuwMueROnDGye2GuJ68tB">
+    <img src="https://drive.google.com/uc?export=view&id=127Czi0R_99uuuwMueROnDGye2GuJ68tB" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/></a>
 
 
 ## 7.5. Master Bedroom Wall
 
 Ragged horizontal crack avove skirting board on eastern wall in north east corner|Mr Armour was explicitly shown this crack yet it was completely omitted from his report
 
-<a href="https://drive.google.com/uc?export=view&id=141VGhAlP2VnGLf9EQ78mu15ytpMhrd3S"><img src="https://drive.google.com/uc?export=view&id=141VGhAlP2VnGLf9EQ78mu15ytpMhrd3S" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/>
+<a href="https://drive.google.com/uc?export=view&id=141VGhAlP2VnGLf9EQ78mu15ytpMhrd3S">
+    <img src="https://drive.google.com/uc?export=view&id=141VGhAlP2VnGLf9EQ78mu15ytpMhrd3S" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/>
 
 
 <!-- ---
