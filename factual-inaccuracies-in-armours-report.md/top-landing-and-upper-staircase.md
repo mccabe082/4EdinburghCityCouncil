@@ -1,6 +1,6 @@
-# 9. Stairs/Landing
+# 9. Second Floor Hall, Stairs & Third Floor Landing
 
-## 9.1. Upstairs Landing: Master Bedroom door
+## 9.1. Third Floor Landing: Master Bedroom door
 
 There was a small crack in the plasterboard above the door frame on the right. Now there are now slight gaps in the timber
 <!--->>Mr Armour dismissed structural movement citing an absence of gaps in the timber - now there are gaps in the timber<!--->
@@ -12,21 +12,21 @@ There was a small crack in the plasterboard above the door frame on the right. N
 <a href="https://drive.google.com/uc?export=view&id=18qDY5hTEDfkojAN4JmGrtsecsmILmWfE">
     <img src="https://drive.google.com/uc?export=view&id=18qDY5hTEDfkojAN4JmGrtsecsmILmWfE" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/>
 
-## 9.2. Upstairs Landing: Cupboard Door
+## 9.2. Third Floor Landing: Cupboard Door
 
 there are now slight gaps between the wall and the timber
 
 <a href="https://drive.google.com/uc?export=view&id=1M6jaz-hqqJ85O8FzSc3Q453ttRknOjw3">
     <img src="https://drive.google.com/uc?export=view&id=1M6jaz-hqqJ85O8FzSc3Q453ttRknOjw3" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/></a>
 
-## 9.3. Upstairs Landing: Bedroom 1 (Small North East) door
+## 9.3. Third Floor Landing: Bedroom 3 door
 
 a slight ridge and a crack have appeared above bedroom door frame at on the right and left side respectively at the plasterboard edges - both are vertical
 
 <a href="https://drive.google.com/uc?export=view&id=190uwIjIqa8BwmPyqzTRgq99DOzNnexNx">
     <img src="https://drive.google.com/uc?export=view&id=190uwIjIqa8BwmPyqzTRgq99DOzNnexNx" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/></a>
 
-## 9.4. Upstairs Landing: Main Bathroom Door
+## 9.4. Third Floor Landing: Bathroom Door
 
 series of vertical fissures in the plasterboard above bathroom door and slight gaps are now visible in the door frame timber
 
@@ -35,14 +35,14 @@ series of vertical fissures in the plasterboard above bathroom door and slight g
 <a href="https://drive.google.com/uc?export=view&id=1AgunfQ-qMGSz2wo_Cd5hl7YMx89S-REu">
     <img src="https://drive.google.com/uc?export=view&id=1AgunfQ-qMGSz2wo_Cd5hl7YMx89S-REu" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/></a>
 
-## 9.5. Upstairs Landing: West Bedroom Door
+## 9.5. Third Floor Landing: Bedroom 2 Door
 
 crack above door frame and slight separation of door frame timber
 
 <a href="https://drive.google.com/uc?export=view&id=18zCahb9VplprLtggUqkCXMPffStPLdwC">
     <img src="https://drive.google.com/uc?export=view&id=18zCahb9VplprLtggUqkCXMPffStPLdwC" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/></a>
 
-## 9.6. Downstairs Landing: Livingroom Door
+## 9.6. Second Floor Hall: Sitting Room/Kitchen Door
 
 Slight separation of some of the door frame timers and slight cracking/separation of the timer edges from the plasterboard wall
 
@@ -53,7 +53,7 @@ this would have been clearly visible in the [property brochure](https://drive.go
 <a href="https://drive.google.com/uc?export=view&id=1BQlRDhu4UXx7xlEBjG3Wylw-yIcniRhG">
     <img src="https://drive.google.com/uc?export=view&id=1BQlRDhu4UXx7xlEBjG3Wylw-yIcniRhG" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/></a>
 
-## 9.7. Upstairs Landing: Ceiling
+## 9.7. Third Floor Landing: Ceiling
 
 ridge along gap between plaster board sheets along the ceiling
 
@@ -101,6 +101,7 @@ crack at corner of wall and overhead ceiling above bottom of staircase <br/><br/
     <img src="https://drive.google.com/uc?export=view&id=18vqAYwcy5sil-1ujgs9Qsy00XWVtupus" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/></a>
 <a href="https://drive.google.com/uc?export=view&id=19AipMzKdSXAehQiETdbhrR2AkqLaJ-rL">
     <img src="https://drive.google.com/uc?export=view&id=19AipMzKdSXAehQiETdbhrR2AkqLaJ-rL" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/></a>
+
 
 
 >TODO: <br/>- Main Door <br/>- Cupboard Door <br/>- WC Door

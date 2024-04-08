@@ -1,6 +1,6 @@
-# 5. Kitchen/Lounge (Downstairs Open Plan Area)
+# 5. Second Floor Sitting Room/Kitchen
 
-## 5.1. Livingroom: door frame
+## 5.1. Sitting Room: door frame
 gaps in timber - previously Mr Armour dismissed structural movement citing an absence of gaps in the timber - now there are obvious gaps in the timber
 
 <a href="https://drive.google.com/uc?export=view&id=19QSNaOGwIycYV2C_lp-SyogcAIeKABvY">
@@ -23,7 +23,7 @@ door looks misaligned in frame and scuffs the floor when opened and clear distor
 <a href="https://drive.google.com/uc?export=view&id=19Nbdyq3CSeq8M16U7DX-9c36U4Yv-I30">
     <img src="https://drive.google.com/uc?export=view&id=19Nbdyq3CSeq8M16U7DX-9c36U4Yv-I30" style="width: 650px; max-width: 40%; height: auto" title="Click to enlarge picture"/></a>
 
-## 5.2. Livingroom: Ceiling
+## 5.2. Sitting Room: Ceiling
 
 Joins in plaster are now prominant in Rendered ceiling | shown in the [property brochure](https://drive.google.com/drive/u/0/folders/1C0xLePbAlKa6DX2sQLZOKVbEetw67dZ-)
 
@@ -44,9 +44,9 @@ Joins in plaster are now prominant in Rendered ceiling | shown in the [property 
 <a href="https://drive.google.com/uc?export=view&id=19auSqB0CZQJgMgePW9wrd5sQ3lb80wBo">
     <img src="https://drive.google.com/uc?export=view&id=19auSqB0CZQJgMgePW9wrd5sQ3lb80wBo" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/></a>
 
-## 5.3. Livingroom: Window
+## 5.3. Sitting Room: Windows
 
-Cracks in plasterboard surrounding window
+Cracks in plasterboard surrounding windows
 
 <a href="https://drive.google.com/uc?export=view&id=1B2f6MTLP9MmMSquZrzq1AK7SyC_hOxQK">
     <img src="https://drive.google.com/uc?export=view&id=1B2f6MTLP9MmMSquZrzq1AK7SyC_hOxQK" style="width: 650px; max-width: 30%; height: auto" title="Click to enlarge picture"/></a>
@@ -55,17 +55,17 @@ Cracks in plasterboard surrounding window
 <a href="https://drive.google.com/uc?export=view&id=1B2pZZYvGHZ--pe6EJP05QoLM0jHgKbvx">
     <img src="https://drive.google.com/uc?export=view&id=1B2pZZYvGHZ--pe6EJP05QoLM0jHgKbvx" style="width: 650px; max-width: 30%; height: auto" title="Click to enlarge picture"/></a>
 
-External crack in morter above North living room window
+External crack in morter above North sitting room window
 
 <a href="https://drive.google.com/uc?export=view&id=1A-s4kX9BIUbUlvsKoLTnrEY5LgUgw8cp">
     <img src="https://drive.google.com/uc?export=view&id=1A-s4kX9BIUbUlvsKoLTnrEY5LgUgw8cp" style="width: 650px; max-width: 80%; height: auto" title="Click to enlarge picture"/></a>
 
-External vertical crack below South living room window
+External vertical crack below South sitting room window
 
 <a href="https://drive.google.com/uc?export=view&id=19zOWN3LFWfCpuNM8HlmrzIfvCq4Rz2fA">
     <img src="https://drive.google.com/uc?export=view&id=19zOWN3LFWfCpuNM8HlmrzIfvCq4Rz2fA" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/></a>
 
-Crack in Lower pane of southern livingroom window
+Crack in Lower pane of southern Sitting window
 
 <a href="https://drive.google.com/uc?export=view&id=1AO5QpkBbMyty8Abd7byrjvIcbAZ-MYQr">
     <img src="https://drive.google.com/uc?export=view&id=1AO5QpkBbMyty8Abd7byrjvIcbAZ-MYQr" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/></a>
@@ -79,7 +79,7 @@ Window sill has popped out
 <a href="https://drive.google.com/uc?export=view&id=1ADLg-U1hARKJW85XGsJ2VAMCAj7now8J">
     <img src="https://drive.google.com/uc?export=view&id=1ADLg-U1hARKJW85XGsJ2VAMCAj7now8J" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/></a>
 
-## 5.3. Kitchen Area: Window
+## 5.3. Kitchen: Window
 
 Interior crack in plaster board and cracks in pain around Window sill
 

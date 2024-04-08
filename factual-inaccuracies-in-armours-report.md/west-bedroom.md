@@ -1,12 +1,5 @@
 # 10. Bedroom 2 (West)
 
-## 10.1. Bedroom 2: External Wall on no.12
-
-A foot or so from the rear window there is a large vertical crack through the masonary on the adjacent wall
-
-<a href="https://drive.google.com/uc?export=view&id=14RZ81ybhbrfqn307ZOwhhaguNpGEkdIq">
-    <img src="https://drive.google.com/uc?export=view&id=14RZ81ybhbrfqn307ZOwhhaguNpGEkdIq" style="width: 650px; max-width: 80%; height: auto" title="Click to enlarge picture"/></a>
-
 ## 10.2. Bedroom 2: Window (Exterior)
 
 at the bottom edge of the rear window there is a large staircase crack through the masonary and a slightly protruding brick

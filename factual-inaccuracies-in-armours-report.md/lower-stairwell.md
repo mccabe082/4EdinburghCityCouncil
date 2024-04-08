@@ -1,4 +1,4 @@
-# 6. Stairwell
+# 6. Stairwell (Ground Floor/Second Floor)
 
 ## 6.1. Stairwell: Window Interior Surrounds
 Thin cracks in paint around the interior window sill
@@ -73,7 +73,7 @@ series of stretch marks
     <img src="https://drive.google.com/uc?export=view&id=1LDFsARgCkfBuhUNcYOirgl4XpuDYo6hT" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/> 
 
 
-Stairwell: Walls | series of stretch marks | These cracks have clearly progressed beyond our dated pencil marks | 
+These cracks have clearly progressed beyond our dated pencil marks
 
 <a href="https://drive.google.com/uc?export=view&id=1LLEde8skCds-15IhywdoHTPVOOy4nJg9">
     <img src="https://drive.google.com/uc?export=view&id=1LLEde8skCds-15IhywdoHTPVOOy4nJg9" style="width: 650px; max-width: 20%; height: auto" title="Click to enlarge picture"/></a>

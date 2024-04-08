@@ -1,4 +1,4 @@
-# 3. Master Bedroom: EnSuite
+# 3. Third Floor Master Bedroom EnSuite
 # 3.1. Master Bedroom EnSuite: Doorframe 
 Gaps in the doorframe timbers are now clearly visible. Since Mr Armour’s visit, cracking has increased at the door surround into the en-suite
 

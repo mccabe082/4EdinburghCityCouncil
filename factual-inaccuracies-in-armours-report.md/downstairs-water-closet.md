@@ -1,6 +1,6 @@
-# 2. Downstairs W/C
+# 2. Second Floor W/C
 
-## 2.1. Downstairs W/C: Ceiling
+## 2.1. W/C: Ceiling
 
 hailine crack along join in ceiling plasterboards
 
@@ -8,7 +8,7 @@ hailine crack along join in ceiling plasterboards
     <img src="https://drive.google.com/uc?export=view&id=1NDfdn2hHgHwWvuuG7U-bhv4bodpQimsB" style="width: 650px; max-width: 80%; height: auto" title="Click to enlarge picture"/>
 </a>
 
-## 2.2. Downstairs W/C: floor
+## 2.2. W/C: floor
 
 cracked grout
 
@@ -16,7 +16,7 @@ cracked grout
     <img src="https://drive.google.com/uc?export=view&id=1B_vTWORwDphWnSkvNL2HsGthQh-ZUl-S" style="width: 650px; max-width: 80%; height: auto" title="Click to enlarge picture"/>
 </a>
 
-## 2.3. Downstairs W/C: door frame
+## 2.3. W/C: door frame
 
 minor fisure in the door frame
 
